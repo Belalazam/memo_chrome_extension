@@ -1,0 +1,11 @@
+body{
+    min-width: 400px;
+    min-height: 200px;
+}
+#submit{
+    color:red;
+    background-color: white;
+}
+#submit:hover{
+    background-color:grey;
+}
